@@ -8,4 +8,4 @@ StickNet code used in Ostaszewski et al. 2025 and in conjunction with code used 
 ## Cold pool analysis code
 ColdPoolProperties
 
-The last three jupyter notebooks (Detailed_MV_Analysis, PerilsPlots, PerilsPlots_2) have a bunch of plots used in both papers listed above.
+The last three jupyter notebooks (TimeToSpace_plots, Detailed_MV_Analysis, PerilsPlots, PerilsPlots_2) have a bunch of plots used in both papers listed above.
